@@ -1,0 +1,86 @@
+[Notification] Open log file Log.txt
+[Test] Vec2 : OK
+[Test] Vec3 : OK
+[Test] Vec4 : OK
+[Test] Mat4 : OK
+---------
+[Notification] Init resource
+[Notification] Add element Cube in resources
+[Notification] Open obj Resources/Obj/cube.obj
+[Notification] Close obj
+[Notification] Load Mesh (Cube)!
+[Notification] Add element Sphere in resources
+[Notification] Open obj Resources/Obj/Sphere.obj
+[Notification] Close obj
+[Notification] Load Mesh (Sphere)!
+[Notification] Add element BasicShader in resources
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Close shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Add element ColliderShader in resources
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open shader Resources/Shaders/ColliderFrag.frag
+[Notification] Close shader Resources/Shaders/ColliderFrag.frag
+[Notification] Add element Wall in resources
+[Notification] Add element Sample in resources
+[Notification] Add element Slime in resources
+[Notification] Open obj Resources/Obj/Slime.obj
+[Notification] Close obj
+[Notification] Load Mesh (Slime)!
+[Notification] Add element SlimeText in resources
+[Notification] Add element FryingPan in resources
+[Notification] Open obj Resources/Obj/frying_pan.obj
+[Notification] Close obj
+[Notification] Load Mesh (FryingPan)!
+[Notification] Add element FryingPanText in resources
+[Notification] Add element Pistol in resources
+[Notification] Open obj Resources/Obj/c_pistol.obj
+[Notification] Close obj
+[Notification] Load Mesh (Pistol)!
+[Notification] Add element PistolText in resources
+[Notification] Add element Patrick in resources
+[Notification] Open obj Resources/Obj/patrick.obj
+[Notification] Close obj
+[Notification] Load Mesh (Patrick)!
+[Notification] Add element PatrickText in resources
+[Notification] Add element Scene1 in resources
+[Notification] Add element BoxCollider in resources
+[Notification] Load Mesh (Primitif Cube)!
+[Notification] Add element SphereCollider in resources
+[Notification] Load Mesh (Primitif Sphere)!
+[Notification] Add element CapsuleCollider in resources
+[Notification] Load Mesh (Primitif Capsule)!
+[Notification] Add element Menu in resources
+[Notification] Add element Credit in resources
+[Notification] Add element Setting in resources
+---------
+[Notification] Init scene 1
+[Notification] Add gameObject Box1 in scene
+[Notification] Add gameObject Box2 in scene
+[Notification] Add gameObject Box3 in scene
+[Notification] Add gameObject Box4 in scene
+[Notification] Add gameObject Box5 in scene
+[Notification] Add gameObject Box6 in scene
+[Notification] Add gameObject Box7 in scene
+[Notification] Add gameObject Box8 in scene
+[Notification] Add gameObject Box9 in scene
+[Notification] Add gameObject Box10 in scene
+[Notification] Add gameObject Box11 in scene
+[Notification] Add gameObject Box12 in scene
+[Notification] Add gameObject Box13 in scene
+[Notification] Add gameObject Sphere1 in scene
+[Notification] Add gameObject Box14 in scene
+[Notification] Add gameObject Pistol in scene
+[Notification] Camera is set
+[Notification] Add gameObject Camera in scene
+[Notification] Player is set
+[Notification] Add gameObject Player in scene
+[Notification] Set parent Player to Camera
+[Notification] Set parent Player to Pistol
+[Notification] Add direction light
+[Notification] Add point light
+[Notification] Add spot light
+[Notification] Change scene Scene1
+[Notification] Change scene Menu
